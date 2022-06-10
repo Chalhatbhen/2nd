@@ -6,10 +6,19 @@ draft: false
 ---
 
 ### Privacy Policy
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus  ndisse.  morbi quis nunc.
+Last updated: June 10 2022,
+
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the Free Privacy Policy Generator.
 
 
-#### More Privacy Policy
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse.  morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis  ndisse.  morbi quis nunc, at arcu quam facilisi  ndisse.  morbi quis nunc, at arcu quam facilisi
+#### Use of Your Personal Data
+The Company may use Personal Data for the following purposes:
 
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse.  morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis  ndisse.  morbi quis nunc, at arcu quam facilisi  ndisse.  morbi quis nunc, at arcu quam facilisi
+To provide and maintain our Service, including to monitor the usage of our Service.
+To contact You: To contact You by email equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities contracted services, including the security updates, when necessary or reasonable for their implementation.
+
+To provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
+
+To manage Your requests: To attend and manage Your requests to Us.
