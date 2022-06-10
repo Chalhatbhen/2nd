@@ -36,7 +36,7 @@ hasChildren = true
 
 # footer menu
 [[footer]]
-name = "Home"
+name = "main menu"
 url = "/"
 weight = 1
 
@@ -46,7 +46,7 @@ url = "about/"
 weight = 2
 
 [[footer]]
-name = "Contact"
+name = "Feedback"
 url = "contact/"
 weight = 3
 
