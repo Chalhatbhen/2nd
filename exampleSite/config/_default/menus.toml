@@ -22,11 +22,7 @@ url = "#"
 weight = 4
 hasChildren = true
 
-  [[main]]
-  parent = "Social media post"
-  name = "Instagram"
-  url = "tags/"
-  weight = 2
+  
   
   
   parent = "Social media post"
@@ -37,13 +33,13 @@ hasChildren = true
  [[main]]
   parent = "Social media post"
   name = "Twitter"
-  url = "categories/"
+  url = "https://twitter.com/Chalhatbhen"
   weight = 4
   
   [[main]]
   parent = "Social media post"
-  name = "Linkedin"
-  url = "tags/"
+  name = "Instagram"
+  url = "https://www.instagram.com/x_x__rag__x_x/"
   weight = 5
 
 # footer menu
