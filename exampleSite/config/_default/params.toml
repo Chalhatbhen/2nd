@@ -40,14 +40,14 @@ custom_script= ""
 
 # Preloader
 [preloader]
-enable = false
-preloader = "" # use jpg, png, svg or gif format.
+enable = true
+preloader = "images/favicon.png" # use jpg, png, svg or gif format.
 
 # Banner
 [banner]
 enable = true
 title_large = "Welcome **!**"
-title_small = "to my all social media Follower"
+title_small = "All in one social media"
 image = "images/banner.png"
 background_image = "/images/banner-bg-shape.svg"
 content = "I have develop this website to post my all social media connent and thinking. Like YouTube Video,tweet and Other social media post."
@@ -94,12 +94,12 @@ link = "https://twitter.com/Chalhatbhen"
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.instagram.com/x_x__rag__x_x/"
 
 [[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+title = "instagram"
+icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://www.instagram.com/chalhatbhen/"
 
 [[social]]
 title = "linkedin"
