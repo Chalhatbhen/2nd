@@ -26,25 +26,25 @@ hasChildren = true
   parent = "Social media post"
   name = "Instagram"
   url = "tags/"
-  weight = 1
+  weight = 2
   
   
   parent = "Social media post"
   name = "YouTube"
   url = "https://www.youtube.com/channel/UCzXaGU-BmQc0AcOh_-Ijq7w"
-  weight = 2
+  weight = 3
   
  [[main]]
   parent = "Social media post"
   name = "Twitter"
   url = "categories/"
-  weight = 3
+  weight = 4
   
   [[main]]
   parent = "Social media post"
   name = "Linkedin"
   url = "tags/"
-  weight = 4
+  weight = 5
 
 # footer menu
 [[footer]]
