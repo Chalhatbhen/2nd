@@ -17,22 +17,34 @@ url = "contact/"
 weight = 3
 
 [[main]]
-name = "Pages"
+name = "Post"
 url = "#"
 weight = 3
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
+  parent = "Youtube"
   name = "Tags"
   url = "tags/"
   weight = 1
-
+  
   [[main]]
-  parent = "Pages"
+  parent = "Twitter"
+  name = "Tags"
+  url = "tags/"
+  weight = 2
+  
+  [[main]]
+  parent = "Insatgram"
   name = "Categories"
   url = "categories/"
-  weight = 2
+  weight = 3
+  
+  [[main]]
+  parent = "Linkedin"
+  name = "Tags"
+  url = "tags/"
+  weight = 4
 
 # footer menu
 [[footer]]
