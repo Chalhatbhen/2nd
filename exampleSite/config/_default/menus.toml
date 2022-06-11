@@ -19,7 +19,7 @@ weight = 3
 [[main]]
 name = "Social media post"
 url = "#"
-weight = 3
+weight = 4
 hasChildren = true
 
   [[main]]
