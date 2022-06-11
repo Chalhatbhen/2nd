@@ -31,7 +31,7 @@ hasChildren = true
   
   parent = "Social media post"
   name = "YouTube"
-  url = "tags/"
+  url = "https://www.youtube.com/channel/UCzXaGU-BmQc0AcOh_-Ijq7w"
   weight = 2
   
  [[main]]
