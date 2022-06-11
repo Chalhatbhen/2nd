@@ -16,23 +16,26 @@ author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact info
 address = "Nangloi, West Delhi, Delhi-110041"
+# search
+link="https://www.google.com/maps/place/Nangloi,+Delhi/@28.670204,77.0663475,13.5z/data=!4m5!3m4!1s0x390d0438728d3fc9:0x64e1eebb4ec4e142!8m2!3d28.6820444!4d77.0675607"
+search = true
 mobile = "******9021"
 email = "itsurajkr.gupta@gmail.com"
 # contact form action
 contact_form_action = "https://formspree.io/f/mjvlzozb" # contact form works with https://formspree.io
-# search
-search = true
+
 
 # featured post title
 featured_post_title = "Special Post"
 recent_post_title = "Recent Post"
+project_post_title = "Project"
 mainSections = ["blog"]
 # about widget content
 about_widget_content = "I have develop this website just for Increse my Flowers on all Social media platform."
 # footer content
 #footer_content = "Lorem ipsum dolor sit amt, conse adip iscing. donec iaculis tempasus laoreet. Libero ullam rgscper."
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [Suraj](#) & Developed By [*******](#)"
 
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
@@ -68,7 +71,7 @@ button = "I Accept"
 
 ######################## sidebar widgets #########################
 [widgets]
-sidebar = ["about", "categories", "recent-post"]
+sidebar = ["about", "categories", "recent-post","Project"]
 # available widget : about,categories,newsletter,recent-post
 
 
@@ -94,12 +97,12 @@ link = "https://twitter.com/Chalhatbhen"
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.instagram.com/x_x__rag__x_x/"
+link = "https://www.instagram.com/x_x__rag__x_x"
 
 [[social]]
 title = "instagram"
 icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://www.instagram.com/yash_kumar09/"
+link = "https://www.instagram.com/yash_kumar09"
 
 [[social]]
 title = "linkedin"
