@@ -22,25 +22,25 @@ url = "#"
 weight = 3
 hasChildren = true
 
-  [[main]]
+  
   parent = "Youtube"
   name = "Tags"
   url = "tags/"
   weight = 1
   
-  [[main]]
+  
   parent = "Twitter"
   name = "Tags"
   url = "tags/"
   weight = 2
   
-  [[main]]
+ 
   parent = "Insatgram"
   name = "Categories"
   url = "categories/"
   weight = 3
   
-  [[main]]
+  
   parent = "Linkedin"
   name = "Tags"
   url = "tags/"
